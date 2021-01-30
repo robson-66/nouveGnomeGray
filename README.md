@@ -3,7 +3,7 @@ GNOME icon theme
 
 # GNOME icon theme Installation:
 
-![ScreenShot](screenshot.png"nouveGnomeGray")
+![ScreenShot](screenshot.jpg "nouveGnomeGray")
 
 (1) Put this (extracted) folder in ~/.local/share/icons/ (create the last folder "icons" if it doesn't exist; here ~ is your home);
 
